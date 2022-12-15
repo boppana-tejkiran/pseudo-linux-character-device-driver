@@ -1,5 +1,5 @@
 # pseudo-linux-character-device-driver
-This pseudo character device driver for Linux project is used by me to learn 
+This pseudo character device driver for Linux is used by me to learn 
 writing charecter device drivers for Linux kernel.
 
 This charecter device driver handles a single pseudo device.
